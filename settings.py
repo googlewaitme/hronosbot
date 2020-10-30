@@ -1,0 +1,2 @@
+vk_token = '9283bf46c124e12004b1c5289f05984f2d5405905ddbfe9ede0d89bee31d51b619d143d029b89980bd1ee'
+vk_access_token = ''
